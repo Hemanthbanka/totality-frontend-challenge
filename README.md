@@ -44,5 +44,7 @@ npm: Node package manager used for managing project dependencies.
 Additional Notes
 
 Scalability: The project is designed with scalability in mind. Components are modular and reusable, which allows for easy expansion and maintenance.
+
 Third-Party Libraries: Material-UI and styled-components are used to streamline the design process and ensure a consistent user interface.
+
 Server-Side Rendering: Next.js is chosen for its SSR capabilities, which enhance SEO and performance, especially for content-heavy pages like property listings.
