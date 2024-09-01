@@ -1,0 +1,27 @@
+.filter-sidebar {
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  padding: 1rem;
+  background-color: #f8f9fa;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 767.98px) {
+  .filter-sidebar {
+    position: static;
+    height: auto;
+    box-shadow: none;
+  }
+}
+
+main {
+  padding: 1rem;
+}
+
+@media (max-width: 767.98px) {
+  .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}

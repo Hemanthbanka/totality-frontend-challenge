@@ -1,0 +1,30 @@
+.header {
+  background-color: blue;
+  padding: 1rem 0;
+}
+
+.header .navbar-brand {
+  color: #ffffff;
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+.header .navbar-brand:hover {
+  /* color: #cccccc; */
+  color: skyblue;
+}
+
+.header .cart-link {
+  color: #ffffff;
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+.header .cart-link:hover {
+  color: #cccccc;
+}
+
+.header .navbar-brand .fa-home,
+.header .cart-link .fa-shopping-cart {
+  margin-right: 0.5rem;
+}
