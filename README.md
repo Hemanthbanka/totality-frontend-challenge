@@ -13,7 +13,9 @@ Project Structure
 The project is organized into the following main sections:
 
 Pages: These represent the primary views of the application, such as the home page, booking management, and checkout pages.
+
 Components: Reusable UI components, such as PropertyCard, FilterBar, Cart, and CheckoutForm, are modularized to promote reusability and maintainability.
+
 Styles: Global CSS and styled-components are used to define consistent styling across the application.
 
 Key Features
@@ -31,14 +33,19 @@ Tech Stack
 Frontend
 
 React: A JavaScript library for building user interfaces, enabling a component-based architecture and efficient rendering.
+
 Next.js: A React framework for server-side rendering (SSR) and static site generation (SSG). It also offers built-in routing, making it ideal for SEO and performance.
+
 Material-UI: A popular React UI framework that provides a rich set of components and themes, enabling consistent and modern UI design.
+
 Styled-components: A library for writing CSS directly in JavaScript, allowing for more dynamic styling tied to React components.
 
 Other Tools
 
 VS Code: A source-code editor used for writing and debugging the project.
+
 Git: Version control to manage code changes and collaborate with other developers.
+
 npm: Node package manager used for managing project dependencies.
 
 Additional Notes
