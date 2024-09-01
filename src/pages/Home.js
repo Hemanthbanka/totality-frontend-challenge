@@ -5,7 +5,7 @@ import './Home.css'; // Import custom CSS
 
 // Mock data with location and bedrooms
 const properties = [
-  { id: 1, title: 'Cozy Apartment', description: 'A cozy apartment in the city center.', price: 100, location: 'City Center', bedrooms: 1, image: '/assets/images/property2.jpg' },
+  { id: 1, title: 'Cozy Apartment', description: 'A cozy apartment in the city center.', price: 100, location: 'City Center', bedrooms: 1, image: '/assets/images/property1.jpg' },
   { id: 2, title: 'Luxury Villa', description: 'A luxurious villa with a sea view.', price: 500, location: 'Seaside', bedrooms: 4, image: '/assets/images/property2.jpg' },
   { id: 3, title: 'Charming Cottage', description: 'A charming cottage in the countryside.', price: 150, location: 'Countryside', bedrooms: 2, image: '/assets/images/property3.jpg' },
   { id: 4, title: 'Modern Loft', description: 'A modern loft with great city views.', price: 200, location: 'Downtown', bedrooms: 2, image: '/assets/images/property4.jpg' },
